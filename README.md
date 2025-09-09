@@ -7,6 +7,7 @@ World Models:
    * V (Vision): a Variational Autoencoder (VAE) that compresses high-dimensional observations (images) into a lower-dimensional latent vector zₜ. This captures the essential spatial features of each frame.
    * M (Memory): a Mixture-Density Network Recurrent Neural Network (MDN-RNN) that models the temporal dynamics—in other words, it predicts what the next latent vector will be given the current latent state, the action taken, and its internal memory (hₜ). It outputs parameters for a mixture of Gaussians, allowing stochastic sampling of the next latent vector zₜ₊₁.
    * C (Controller): a lightweight linear model that takes as input the current latent vector zₜ and the hidden state hₜ, and outputs an action aₜ. This module is trained not via backpropagation, but using an evolutionary strategy (CMA-ES), keeping the controller compact and tractable.
+     
      <img width="804" height="292" alt="{F5187FF9-768B-4000-856B-D36194C91562}" src="https://github.com/user-attachments/assets/906b6e1e-ed1b-46f4-8d18-8cd14ad288e4" />
 
 
