@@ -10,5 +10,9 @@ World Models:
      
      <img width="804" height="292" alt="{F5187FF9-768B-4000-856B-D36194C91562}" src="https://github.com/user-attachments/assets/906b6e1e-ed1b-46f4-8d18-8cd14ad288e4" />
 
+   Modern approaches:
+   <img width="803" height="313" alt="{3BEA179B-B039-4D3B-9D7F-D86FBD773EBA}" src="https://github.com/user-attachments/assets/0db5e708-a1d3-4816-81cb-7c96cca9fa7e" />
+
+
 
 3) 
